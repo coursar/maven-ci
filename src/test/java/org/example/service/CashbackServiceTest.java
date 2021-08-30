@@ -12,7 +12,7 @@ class CashbackServiceTest {
     // Arrange
     final var service = new CashbackService();
     final var amount = 100_00;
-    final var expected = 3_00;
+    final var expected = 5_00;
 
     // Act
     final var actual = service.calculate(amount);

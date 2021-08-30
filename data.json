@@ -1,0 +1,3449 @@
+{
+  "device": "desktop",
+  "pageContent": {
+    "id": 187,
+    "seo": {
+      "meta": [
+        {
+          "name": "description",
+          "content": "Дебетовые банковские карты от Альфа-Банк 💳 Бесплатный выпуск карты и обслуживание 💰 Кэшбэк или мили за покупки по карте и до 6% на остаток"
+        },
+        {
+          "name": "keywords",
+          "content": "дебетовые карты банковские оформить онлайн заказать получить интернет выгодные лучшие"
+        },
+        {
+          "content": "Дебетовые карты",
+          "property": "og:title"
+        },
+        {
+          "content": "Дебетовые банковские карты от Альфа-Банк 💳 Бесплатный выпуск карты и обслуживание 💰 Кэшбэк или мили за покупки по карте и до 6% на остаток",
+          "property": "og:description"
+        },
+        {
+          "content": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002F",
+          "property": "og:url"
+        },
+        {
+          "content": "website",
+          "property": "og:type"
+        },
+        {
+          "content": "https:\u002F\u002Falfabank.ru\u002Ff\u002Fmedia\u002Flogo-ogp.png",
+          "property": "og:image"
+        },
+        {
+          "content": "АО Альфа-Банк",
+          "property": "og:site_name"
+        },
+        {
+          "content": "",
+          "property": "article:tag"
+        },
+        {
+          "content": "summary_large_image",
+          "property": "twitter:card"
+        },
+        {
+          "content": "@alfabank",
+          "property": "twitter:creator"
+        },
+        {
+          "content": "Дебетовые карты",
+          "property": "twitter:title"
+        },
+        {
+          "content": "Дебетовые карты, оформить и заказать банковскую карту через интернет, онлайн заявка выгодной и лучшей дебетовой карты",
+          "property": "twitter:description"
+        },
+        {
+          "content": "https:\u002F\u002Falfabank.ru\u002Ff\u002Fmedia\u002Flogo-ogp.png",
+          "property": "twitter:image"
+        }
+      ],
+      "title": "Дебетовые карты, оформить и заказать банковскую карту онлайн – Альфа-Банк",
+      "cities": [
+        "Москва",
+        "Санкт-Петербург",
+        "Новосибирск",
+        "Екатеринбург",
+        "Нижний Новгород",
+        "Казань",
+        "Челябинск",
+        "Омск",
+        "Самара",
+        "Ростов-на-Дону",
+        "Уфа",
+        "Красноярск",
+        "Пермь",
+        "Воронеж",
+        "Волгоград",
+        "Краснодар",
+        "Саратов",
+        "Тюмень",
+        "Тольятти",
+        "Ижевск",
+        "Барнаул",
+        "Ульяновск",
+        "Иркутск",
+        "Хабаровск",
+        "Ярославль",
+        "Владивосток",
+        "Томск",
+        "Оренбург",
+        "Кемерово",
+        "Новокузнецк",
+        "Рязань",
+        "Набережные Челны",
+        "Пенза",
+        "Липецк",
+        "Киров",
+        "Чебоксары",
+        "Тула",
+        "Калининград",
+        "Курск",
+        "Ставрополь",
+        "Сочи",
+        "Тверь",
+        "Магнитогорск",
+        "Иваново",
+        "Брянск",
+        "Белгород",
+        "Сургут",
+        "Владимир",
+        "Нижний Тагил",
+        "Архангельск"
+      ],
+      "jsonLd": {
+        "@type": "BreadcrumbList",
+        "@context": "https:\u002F\u002Fschema.org\u002F",
+        "itemListElement": [
+          {
+            "item": "https:\u002F\u002Falfabank.ru\u002F",
+            "name": "Частным лицам",
+            "@type": "ListItem",
+            "position": 1
+          },
+          {
+            "item": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002F",
+            "name": "&#128179; Дебетовые карты",
+            "@type": "ListItem",
+            "position": 2
+          }
+        ]
+      },
+      "linkCanonical": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002F"
+    },
+    "widgets": [
+      {
+        "name": "Meta",
+        "properties": {
+          "metaData": [
+            {
+              "name": "description",
+              "content": "Дебетовые банковские карты от Альфа-Банк 💳 Бесплатный выпуск карты и обслуживание 💰 Кэшбэк или мили за покупки по карте и до 7% на остаток"
+            },
+            {
+              "name": "keywords",
+              "content": "дебетовые карты банковские оформить онлайн заказать получить интернет выгодные лучшие"
+            },
+            {
+              "content": "Дебетовые карты",
+              "property": "og:title"
+            },
+            {
+              "content": "Дебетовые банковские карты от Альфа-Банк 💳 Бесплатный выпуск карты и обслуживание 💰 Кэшбэк или мили за покупки по карте и до 7% на остаток",
+              "property": "og:description"
+            },
+            {
+              "content": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002F",
+              "property": "og:url"
+            },
+            {
+              "content": "website",
+              "property": "og:type"
+            },
+            {
+              "content": "https:\u002F\u002Falfabank.ru\u002Ff\u002Fmedia\u002Flogo-ogp.png",
+              "property": "og:image"
+            },
+            {
+              "content": "АО Альфа-Банк",
+              "property": "og:site_name"
+            },
+            {
+              "content": "",
+              "property": "article:tag"
+            },
+            {
+              "content": "summary_large_image",
+              "property": "twitter:card"
+            },
+            {
+              "content": "@alfabank",
+              "property": "twitter:creator"
+            },
+            {
+              "content": "Дебетовые карты",
+              "property": "twitter:title"
+            },
+            {
+              "content": "Дебетовые карты, оформить и заказать банковскую карту через интернет, онлайн заявка выгодной и лучшей дебетовой карты",
+              "property": "twitter:description"
+            },
+            {
+              "content": "https:\u002F\u002Falfabank.ru\u002Ff\u002Fmedia\u002Flogo-ogp.png",
+              "property": "twitter:image"
+            }
+          ]
+        },
+        "uid": "2272f6899a",
+        "children": []
+      },
+      {
+        "name": "MetaTitle",
+        "properties": {
+          "title": "Дебетовые карты, оформить и заказать банковскую карту онлайн – Альфа-Банк"
+        },
+        "uid": "a446c85371",
+        "children": []
+      },
+      {
+        "name": "LinkCanonical",
+        "properties": {
+          "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002F"
+        },
+        "uid": "e489667809",
+        "children": []
+      },
+      {
+        "name": "PageZoomer",
+        "uid": "30d394b300",
+        "children": [
+          {
+            "name": "MainHeader",
+            "properties": {
+              "applicationsButtonAnalytics": {
+                "block": "Онлайн заявки",
+                "event": "gtm_interaction_event",
+                "action": "Click",
+                "label_detail": "Открытие Стать клиентом"
+              },
+              "withSearch": true,
+              "topRow": [
+                {
+                  "key": "retail",
+                  "link": "\u002F",
+                  "title": "Частным лицам",
+                  "analytics": {
+                    "block": "Меню сегментов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Частным лицам"
+                  }
+                },
+                {
+                  "key": "sme",
+                  "link": "\u002Fsme\u002F",
+                  "title": "Малому бизнесу и ИП",
+                  "analytics": {
+                    "block": "Меню сегментов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Малому бизнесу и ИП"
+                  }
+                },
+                {
+                  "key": "corporate",
+                  "link": "\u002Fcorporate\u002F",
+                  "title": "Корпорациям",
+                  "analytics": {
+                    "block": "Меню сегментов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Корпорациям"
+                  }
+                },
+                {
+                  "key": "financial",
+                  "link": "\u002Ffinancial\u002F",
+                  "title": "Финансовым организациям",
+                  "hidden": true,
+                  "analytics": {
+                    "block": "Меню сегментов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Финансовым организациям"
+                  }
+                },
+                {
+                  "key": "investment",
+                  "link": "\u002Finvestment\u002F",
+                  "title": "Инвестбанк",
+                  "hidden": true,
+                  "analytics": {
+                    "block": "Меню сегментов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Корпорациям"
+                  }
+                },
+                {
+                  "key": "aclub",
+                  "link": "\u002Fa-club\u002F",
+                  "title": "А-КЛУБ",
+                  "hidden": true,
+                  "analytics": {
+                    "block": "Еще",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "А-КЛУБ"
+                  }
+                }
+              ],
+              "segmentId": "retail",
+              "logo": {
+                "link": "\u002F"
+              },
+              "internetBank": {
+                "link": "https:\u002F\u002Fclick.alfabank.ru\u002F",
+                "title": "Интернет-банк",
+                "analytics": {
+                  "block": "Хэдер",
+                  "event": "gtm_interaction_event",
+                  "action": "Menu_Click",
+                  "label_detail": "Интернет-банк"
+                }
+              },
+              "helpLinks": [
+                {
+                  "link": "\u002Foffice\u002F",
+                  "text": "Офисы",
+                  "type": "link",
+                  "analytics": {
+                    "block": "Хэдер",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Офисы"
+                  }
+                },
+                {
+                  "text": " и ",
+                  "type": "normal"
+                },
+                {
+                  "link": "\u002Fatm\u002F",
+                  "text": "банкоматы",
+                  "type": "link",
+                  "analytics": {
+                    "block": "Хэдер",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "банкоматы"
+                  }
+                }
+              ],
+              "dropDown": {
+                "more": [
+                  [
+                    {
+                      "link": "\u002Fabout\u002F",
+                      "title": "О банке",
+                      "analytics": {
+                        "block": "Еще",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "О банке"
+                      }
+                    },
+                    {
+                      "link": "\u002Fselfemployed\u002F",
+                      "title": "Самозанятые",
+                      "analytics": {
+                        "block": "Еще",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Самозанятые"
+                      }
+                    },
+                    {
+                      "link": "\u002Feveryday\u002Fonline\u002F",
+                      "title": "Онлайн-сервисы",
+                      "analytics": {
+                        "block": "Еще",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Онлайн-сервисы"
+                      }
+                    },
+                    {
+                      "link": "\u002Feveryday\u002Fpackage\u002Fpremium\u002F",
+                      "title": "Премиум",
+                      "analytics": {
+                        "block": "Еще",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Премиум"
+                      }
+                    }
+                  ]
+                ],
+                "about": [
+                  [
+                    {
+                      "link": "https:\u002F\u002Fclick.alfabank.ru\u002F",
+                      "title": "Интернет-банк",
+                      "analytics": {
+                        "block": "О банке",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Интернет-банк"
+                      }
+                    },
+                    {
+                      "link": "\u002Foffice\u002F",
+                      "title": "Офисы",
+                      "analytics": {
+                        "block": "О банке",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Офисы"
+                      }
+                    },
+                    {
+                      "link": "\u002Fatm\u002F",
+                      "title": "Банкоматы",
+                      "analytics": {
+                        "block": "О банке",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Банкоматы"
+                      }
+                    }
+                  ]
+                ],
+                "cards": [
+                  [
+                    {
+                      "link": "\u002Fget-money\u002Fcredit-cards\u002F",
+                      "type": "header",
+                      "title": "Кредитные карты",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Кредитные карты"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fcredit-cards\u002F100-days\u002F",
+                      "title": "100 дней без %",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "100 дней без %"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fcredit-cards\u002Falfa-travel\u002F",
+                      "title": "Alfa Travel",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Click",
+                        "product": "General",
+                        "pagetype": "Main Page",
+                        "label_detail": "Alfa Travel"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fland\u002Fcredit-holidays-2020\u002F",
+                      "title": "Как получить отсрочку по кредитам",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Click",
+                        "product": "General",
+                        "pagetype": "Main Page",
+                        "label_detail": "Как получить отсрочку по кредитам"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "link": "\u002Feveryday\u002Fdebit-cards\u002F",
+                      "type": "header",
+                      "title": "Дебетовые карты",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Дебетовые карты"
+                      }
+                    },
+                    {
+                      "link": "\u002Feveryday\u002Fdebit-cards\u002Falfacard\u002F",
+                      "title": "Альфа-Карта",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Альфа-Карта"
+                      }
+                    },
+                    {
+                      "link": "\u002Feveryday\u002Fdebit-cards\u002Ftravel\u002F",
+                      "title": "Alfa Travel",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Alfa Travel"
+                      }
+                    },
+                    {
+                      "link": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot\u002F",
+                      "title": "Аэрофлот",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Аэрофлот"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "header",
+                      "title": "Специальные условия",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Специальные условия"
+                      }
+                    },
+                    {
+                      "link": "\u002Feveryday\u002Fsalary-card\u002Fcard\u002F",
+                      "title": "Зарплатные карты",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Зарплатные карты"
+                      }
+                    },
+                    {
+                      "link": "\u002Feveryday\u002Fsalary-card\u002Findividual-salary-card\u002F",
+                      "title": "Индивидуальное зарплатное предложение",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Индивидуальное зарплатное предложение"
+                      }
+                    },
+                    {
+                      "link": "http:\u002F\u002Ffamily.alfabank.ru\u002F",
+                      "title": "Банк для семьи",
+                      "analytics": {
+                        "block": "Карты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Банк для семьи"
+                      }
+                    }
+                  ]
+                ],
+                "loans": [
+                  [
+                    {
+                      "link": "\u002Fget-money\u002Fcredit\u002Fcredit-cash\u002F",
+                      "title": "Кредит наличными",
+                      "analytics": {
+                        "block": "Кредиты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Кредит наличными"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fcredit\u002Frefinancing\u002F",
+                      "title": "Рефинансирование",
+                      "analytics": {
+                        "block": "Кредиты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Рефинансирование"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fautocredit\u002F",
+                      "title": "Кредит на автомобиль",
+                      "analytics": {
+                        "block": "Кредиты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Кредит на автомобиль"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fcredit-cards\u002F",
+                      "title": "Кредитные карты",
+                      "analytics": {
+                        "block": "Кредиты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Кредитные карты"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fcredit\u002Fcalculator\u002F",
+                      "title": "Кредитный калькулятор",
+                      "analytics": {
+                        "block": "Кредиты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Кредитный калькулятор"
+                      }
+                    },
+                    {
+                      "link": "\u002Feveryday\u002Fpayments-and-transfers\u002Frepayment\u002F",
+                      "title": "Погашение кредита",
+                      "analytics": {
+                        "block": "Кредиты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Погашение кредита"
+                      }
+                    },
+                    {
+                      "link": "\u002Feveryday\u002Fpayments-and-transfers\u002Frepayment\u002Frefin\u002F",
+                      "title": "Работа со справками",
+                      "analytics": {
+                        "block": "Кредиты",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Работа со справками"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fland\u002Fcredit-holidays-2020\u002F",
+                      "title": "Как получить отсрочку по кредитам",
+                      "analytics": {
+                        "block": "Кредиты",
+                        "event": "gtm_interaction_event",
+                        "action": "Click",
+                        "product": "General",
+                        "pagetype": "Main Page",
+                        "label_detail": "Как получить отсрочку по кредитам"
+                      }
+                    }
+                  ]
+                ],
+                "deposits": [
+                  [
+                    {
+                      "link": "\u002Fmake-money\u002Fdeposits\u002F",
+                      "type": "header",
+                      "title": "Депозиты",
+                      "analytics": {
+                        "block": "Вклады",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Депозиты"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Fdeposits\u002Falfa\u002F",
+                      "title": "Альфа-Вклад",
+                      "analytics": {
+                        "block": "Вклады",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Альфа-Вклад"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "link": "\u002Fmake-money\u002Fsavings-account\u002F",
+                      "type": "header",
+                      "title": "Накопительные счета",
+                      "analytics": {
+                        "block": "Вклады",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Накопительные счета"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Fsavings-account\u002Falfa\u002F",
+                      "title": "Альфа-Счёт",
+                      "analytics": {
+                        "block": "Вклады",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Альфа-Счёт"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Fsavings-account\u002Fairplane\u002F",
+                      "title": "Мили \"Аэрофлот Бонус\" за остаток на счёте",
+                      "analytics": {
+                        "block": "Вклады",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Мили \"Аэрофлот Бонус\" за остаток на счёте"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "link": "\u002Fmake-money\u002Fservice-for-saving\u002F",
+                      "type": "header",
+                      "title": "Бесплатные сервисы для накоплений",
+                      "analytics": {
+                        "block": "Вклады",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Бесплатные сервисы для накоплений"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Fservice-for-saving\u002Fmoneybox-zp\u002F",
+                      "title": "Копилка для зарплаты",
+                      "analytics": {
+                        "block": "Вклады",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Копилка для зарплаты"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Fservice-for-saving\u002Fautopay\u002F",
+                      "title": "Автопополнение накопительного счёта",
+                      "analytics": {
+                        "block": "Вклады",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Автопополнение накопительного счёта"
+                      }
+                    }
+                  ]
+                ],
+                "mortgage": [
+                  [
+                    {
+                      "link": "\u002Fget-money\u002Fmortgage\u002F",
+                      "type": "header",
+                      "title": "Ипотека от 6,05%",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Ипотека от 6,05%"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fmortgage\u002Fnovostrojki\u002F",
+                      "title": "Новостройки",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Новостройки"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fmortgage\u002Fvtorichnoe-zhile\u002F?rp-type=housing",
+                      "title": "Вторичное жильё",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Вторичное жильё"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fmortgage\u002Frefin\u002F",
+                      "title": "Рефинансирование ипотеки",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Рефинансирование ипотеки"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fmortgage\u002Fsubsidirovanie-ipoteki\u002F",
+                      "title": "Ипотека с господдержкой",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Ипотека с господдержкой"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "header",
+                      "title": "Специальные условия",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Специальные условия"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fmortgage\u002Fipoteka-s-materinskim-kapitalom\u002F",
+                      "title": "Материнский капитал",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Материнский капитал"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fmortgage\u002Ffamily\u002F",
+                      "title": "Семейная ипотека",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Семейная ипотека"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "header",
+                      "title": "Полезное",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Полезное"
+                      }
+                    },
+                    {
+                      "link": "https:\u002F\u002Fipoteka.alfabank.ru\u002Flogin?_ga=2.124918218.1175891667.1605509900-2075406892.1600154969&_gac=1.187675482.1605263044.Cj0KCQiA-rj9BRCAARIsANB_4ABumKkXk3Abysn7OdYGioRO5kBHvYVFVFXVuT8IbkHwnWXzOO_gdskaAuKjEALw_wcB",
+                      "title": "Личный кабинет заемщика",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Личный кабинет заемщика"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fmortgage\u002Fipotechnyj-kalkulyator\u002F",
+                      "title": "Ипотечный калькулятор",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Ипотечный калькулятор"
+                      }
+                    },
+                    {
+                      "link": "\u002Fget-money\u002Fmortgage\u002Farticles\u002F",
+                      "title": "Полезные статьи",
+                      "analytics": {
+                        "block": "Ипотека",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Полезные статьи"
+                      }
+                    }
+                  ]
+                ],
+                "investments": [
+                  [
+                    {
+                      "type": "header",
+                      "title": "Самостоятельная торговля"
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Fbrokerskij-schyot\u002F",
+                      "title": "Брокерский счёт",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Брокерский счёт"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Ftariffs\u002F",
+                      "title": "Тарифные планы",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Тарифные планы"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Fiis-broker\u002F",
+                      "title": "ИИС",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "ИИС"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Fapp\u002F",
+                      "title": "Приложение Альфа-Инвестиции",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Приложение Альфа-Инвестиции"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002F",
+                      "title": "Все Альфа-Инвестиции",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Все Альфа-Инвестиции"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "header",
+                      "title": "Готовые решения для инвестиций"
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Fpifs\u002F",
+                      "title": "Паевые фонды",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Паевые фонды"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Fiszh\u002F",
+                      "title": "ИСЖ",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "ИСЖ"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Fiis\u002F",
+                      "title": "Готовые стратегии ИИС",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Готовые стратегии ИИС"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Fam\u002F",
+                      "title": "Доверительное управление",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Доверительное управление"
+                      }
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Fgotovye-invest-produkty\u002F",
+                      "title": "Посмотреть всё",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Посмотреть всё"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "header",
+                      "title": "Ещё"
+                    },
+                    {
+                      "link": "\u002Fmake-money\u002Finvestments\u002Flearn\u002F",
+                      "title": "Аналитика и обучение",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Аналитика и обучение"
+                      }
+                    },
+                    {
+                      "link": "https:\u002F\u002Flk.alfadirect.ru\u002F",
+                      "title": "Личный кабинет",
+                      "analytics": {
+                        "block": "Инвестиции",
+                        "event": "gtm_interaction_event",
+                        "action": "Menu_Click",
+                        "label_detail": "Личный кабинет"
+                      }
+                    }
+                  ]
+                ]
+              },
+              "defaultTheme": "light",
+              "dataTestId": "Main-Header-Main-Desktop",
+              "bottomRow": [
+                {
+                  "key": "cards",
+                  "link": "\u002Fcards\u002F",
+                  "title": "Карты",
+                  "analytics": {
+                    "block": "Меню продуктов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Карты"
+                  }
+                },
+                {
+                  "key": "deposits",
+                  "link": "\u002Fmake-money\u002F",
+                  "title": "Вклады",
+                  "analytics": {
+                    "block": "Меню продуктов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Вклады"
+                  }
+                },
+                {
+                  "key": "loans",
+                  "link": "\u002Fget-money\u002F",
+                  "title": "Кредиты",
+                  "analytics": {
+                    "block": "Меню продуктов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Кредиты"
+                  }
+                },
+                {
+                  "key": "mortgage",
+                  "link": "\u002Fget-money\u002Fmortgage\u002F",
+                  "title": "Ипотека",
+                  "analytics": {
+                    "block": "Меню продуктов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Ипотека"
+                  }
+                },
+                {
+                  "key": "investments",
+                  "link": "\u002Fmake-money\u002Finvestments\u002F",
+                  "title": "Инвестиции",
+                  "analytics": {
+                    "block": "Меню продуктов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Инвестиции"
+                  }
+                },
+                {
+                  "key": "more",
+                  "title": "Ещё",
+                  "analytics": {
+                    "block": "Меню продуктов",
+                    "event": "gtm_interaction_event",
+                    "action": "Menu_Click",
+                    "label_detail": "Ещё"
+                  }
+                }
+              ],
+              "applicationsButton": {
+                "link": "https:\u002F\u002Fclick.alfabank.ru\u002F",
+                "items": [
+                  {
+                    "link": "\u002Fget-money\u002Fcredit-cards\u002Fzayavka\u002F",
+                    "title": "100 дней без процентов",
+                    "analytics": {
+                      "block": "Онлайн заявки - Кредитные карты",
+                      "event": "gtm_interaction_event",
+                      "action": "Click",
+                      "label_detail": "Кредитные карты - 100 дней без процентов"
+                    }
+                  },
+                  {
+                    "link": "\u002Feveryday\u002Fdebit-cards\u002Falfacard\u002F#form",
+                    "title": "Альфа-Карта",
+                    "analytics": {
+                      "block": "Онлайн заявки - Дебетовые карты",
+                      "event": "gtm_interaction_event",
+                      "action": "Click",
+                      "label_detail": "Дебетовые карты - Альфа-Карта"
+                    }
+                  },
+                  {
+                    "link": "\u002Fget-money\u002Fcredit\u002Fcredit-cash-adv\u002Fstep1\u002F",
+                    "title": "Кредит наличными",
+                    "analytics": {
+                      "block": "Онлайн заявки - Кредит наличными",
+                      "event": "gtm_interaction_event",
+                      "action": "Click",
+                      "label_detail": "Кредит наличными - Кредит наличными"
+                    }
+                  },
+                  {
+                    "link": "\u002Fsme\u002Fshortpage",
+                    "title": "Счёт для малого бизнеса",
+                    "analytics": {
+                      "block": "Онлайн заявки - Для бизнеса",
+                      "event": "gtm_interaction_event",
+                      "action": "Click",
+                      "label_detail": "Для бизнеса - Счет для малого бизнеса"
+                    }
+                  },
+                  {
+                    "link": "\u002Fmake-money\u002Finvestments\u002Fbrokerskij-schyot\u002F#Form-Open-Acc",
+                    "title": "Брокерский счёт",
+                    "analytics": {
+                      "block": "Онлайн заявки - Инвестиции",
+                      "event": "gtm_interaction_event",
+                      "action": "Click",
+                      "label_detail": "Инвестиции - Брокерский счет"
+                    }
+                  },
+                  {
+                    "link": "\u002Fget-money\u002Fmortgage\u002Fcomplete_house_short\u002F#mortgage-first-step-form",
+                    "title": "Ипотека",
+                    "analytics": {
+                      "block": "Онлайн заявки - Ипотека",
+                      "event": "gtm_interaction_event",
+                      "action": "Click",
+                      "label_detail": "Ипотека - Ипотека"
+                    }
+                  }
+                ],
+                "title": "СТАТЬ КЛИЕНТОМ"
+              }
+            },
+            "uid": "4978b952d6",
+            "children": []
+          },
+          {
+            "name": "ResponsiveBackground",
+            "properties": {
+              "background": {
+                "color": "#FFFFFF"
+              }
+            },
+            "uid": "b389a3c631",
+            "children": [
+              {
+                "name": "SpacerVertical",
+                "properties": {
+                  "size": "xl"
+                },
+                "uid": "f7c401e7e0",
+                "children": []
+              },
+              {
+                "name": "SpacerVertical",
+                "properties": {
+                  "size": "5xl"
+                },
+                "uid": "f48a71099c",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "BlockV2",
+            "properties": {
+              "paddedType": "sticky",
+              "id": "breadcrumbs"
+            },
+            "uid": "33601fe26b",
+            "children": [
+              {
+                "name": "Layout",
+                "uid": "9cd4c600f5",
+                "children": [
+                  {
+                    "name": "Breadcrumbs",
+                    "properties": {
+                      "theme": "white",
+                      "size": "s",
+                      "paths": [
+                        {
+                          "id": 1,
+                          "link": "\u002F",
+                          "title": "Частным лицам"
+                        },
+                        {
+                          "id": 1,
+                          "title": "Дебетовые карты"
+                        }
+                      ],
+                      "collapsed": false
+                    },
+                    "uid": "2f080d2c3e",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "BlockV2",
+            "properties": {
+              "theme": "white",
+              "notPadded": true
+            },
+            "uid": "2a52c44cd0",
+            "children": [
+              {
+                "name": "Layout",
+                "uid": "6bbb021f7e",
+                "children": [
+                  {
+                    "name": "Heading",
+                    "properties": {
+                      "size": 2,
+                      "priority": 1,
+                      "marginTop": false,
+                      "marginBottom": null
+                    },
+                    "uid": "f1e044fb7c",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "Дебетовые карты"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SpacerVertical",
+            "properties": {
+              "size": "xl"
+            },
+            "uid": "289202acc8",
+            "children": []
+          },
+          {
+            "name": "BlockV2",
+            "properties": {
+              "notPadded": true,
+              "id": "filter",
+              "dataTestId": "filter"
+            },
+            "uid": "1f419f3447",
+            "children": [
+              {
+                "name": "Layout",
+                "uid": "e27ccb3014",
+                "children": [
+                  {
+                    "name": "QueryParamsProvider",
+                    "properties": {
+                      "mappings": [
+                        {
+                          "propName": "selectedID",
+                          "defaultValue": "all",
+                          "valuesMapping": {
+                            "all": "all",
+                            "travel": "travel",
+                            "partner": "premium",
+                            "shopping": "shopping"
+                          },
+                          "queryParamName": "rp-tab"
+                        }
+                      ]
+                    },
+                    "uid": "cf64c1377f",
+                    "children": [
+                      {
+                        "name": "TabsTags",
+                        "properties": {
+                          "writeValueToQuery": "rp-tab",
+                          "theme": "white",
+                          "size": "xs"
+                        },
+                        "uid": "22c0534ff8",
+                        "children": [
+                          {
+                            "name": "Tab",
+                            "properties": {
+                              "title": "Все карты",
+                              "id": "all"
+                            },
+                            "uid": "ce561a19ee",
+                            "children": [
+                              {
+                                "name": "BlockV2",
+                                "properties": {
+                                  "id": "all-cards",
+                                  "notPadded": true
+                                },
+                                "uid": "7fca1aabc9",
+                                "children": [
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "4xl"
+                                    },
+                                    "uid": "0d25673724",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCard",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 33%",
+                                          "advantageFirstText": "кэшбэк на покупки",
+                                          "advantageSecondHeading": "7% годовых",
+                                          "advantageSecondText": "на остаток по карте",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "выпуск и обслуживание",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Falfacard-short2\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Falfacard\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая Альфа-Карта",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Falfacard\u002F",
+                                          "headingText": "Бесплатная всегда",
+                                          "id": "alfacard-benefit",
+                                          "mainImgAlt": "Дебетовая карта «Альфа-Карта»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Feveryday\u002Fdebit-cards\u002Falfacard-benefits_03-12-2020.png"
+                                        },
+                                        "uid": "8c359d25b6",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "354e65c224",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCard",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 3%",
+                                          "advantageFirstText": "кэшбэк на покупки",
+                                          "advantageSecondHeading": "7% годовых",
+                                          "advantageSecondText": "на остаток по карте",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "снятие наличных",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Falfacard-premium-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Falfacard-premium\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая Альфа-Карта Premium",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Falfacard-premium\u002F",
+                                          "headingText": "Особые привилегии премиального обслуживания",
+                                          "id": "alfacard-premium",
+                                          "mainImgAlt": "Дебетовая карта «Альфа-Карта Premium»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Feveryday\u002Fdebit-cards\u002Falfa-card-premium_18_12_2020.png"
+                                        },
+                                        "uid": "4f61a9db29",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "66b41328e0",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 9%",
+                                          "advantageFirstText": "милями за покупки на travel.alfabank.ru",
+                                          "advantageSecondHeading": "До 3%",
+                                          "advantageSecondText": "милями за покупки",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "выпуск и обслуживание",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-card-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая карта Alfa Travel",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Ftravel\u002F",
+                                          "headingText": "Самая выгодная банковская карта для путешествий",
+                                          "id": "alfa-travel",
+                                          "mainImgAlt": "Дебетовая карта «Alfa Travel»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Ftravel_print_red14.12.png"
+                                        },
+                                        "uid": "f7b9391fad",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "f20fcf7495",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 11%",
+                                          "advantageFirstText": "милями за покупки на travel.alfabank.ru",
+                                          "advantageSecondHeading": "До 5%",
+                                          "advantageSecondText": "милями за покупки",
+                                          "advantageThirdHeading": "Привилегии",
+                                          "advantageThirdText": "страховка для всей семьи, трансферы, Priority Pass",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-card-premium-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-premium\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая карта Alfa Travel Premium",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-premium\u002F",
+                                          "headingText": "Особый пакет привилегий, необходимый для любого путешествия",
+                                          "id": "alfa-travel-premium",
+                                          "mainImgAlt": "Дебетовая карта «Alfa Travel Premium»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Ftravel_print_premium.png14.12.png"
+                                        },
+                                        "uid": "4abe31ae9b",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "97f2375f7e",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 1,5",
+                                          "advantageFirstText": "миль за каждые 60 ₽ покупки",
+                                          "advantageSecondHeading": "Бизнес-класс",
+                                          "advantageSecondText": "повышение класса за мили",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "выпуск и обслуживание",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflotcard-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая карта Аэрофлот",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot\u002F",
+                                          "headingText": "Выгодные условия для клиентов Аэрофлота",
+                                          "id": "aeroflot",
+                                          "mainImgAlt": "Дебетовая карта «Аэрофлот»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FAeroflot-platinum.png"
+                                        },
+                                        "uid": "06680aa045",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "5375e72f4a",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 2",
+                                          "advantageFirstText": "миль за каждые 60 ₽ покупки",
+                                          "advantageSecondHeading": "Привилегии",
+                                          "advantageSecondText": "страховка для всей семьи, трансферы, Priority Pass",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "при выполнении условий",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflotcard-premium-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot-premium\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая карта Аэрофлот Black Edition",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot-premium\u002F",
+                                          "headingText": "Премиальное обслуживание и выгодные условия для клиентов Аэрофлота",
+                                          "id": "aeroflot-premium",
+                                          "mainImgAlt": "Дебетовая карта «Аэрофлот Black Edition»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FAeroflot-black.png"
+                                        },
+                                        "uid": "e1b292f088",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "eaeb8837a7",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "0 ₽",
+                                          "advantageFirstText": "выпуск и обслуживание",
+                                          "advantageSecondHeading": "До 10%",
+                                          "advantageSecondText": "кэшбэк",
+                                          "advantageThirdHeading": "До 7% годовых",
+                                          "advantageThirdText": "на остаток по карте",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Fyandexcard-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Fyandexcard\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая карта Яндекс.Плюс",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Fyandexcard\u002F",
+                                          "headingText": "Карта с кэшбэком и преимуществами Яндекс.Плюс",
+                                          "id": "yandex",
+                                          "mainImgAlt": "Дебетовая карта «Яндекс.Плюс»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FDebYaCard.png"
+                                        },
+                                        "uid": "6f4cc3058e",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "f03867d064",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "2500 баллов",
+                                          "advantageFirstText": "в подарок на день рождения",
+                                          "advantageSecondHeading": "До 2 баллов",
+                                          "advantageSecondText": "за каждые 10 ₽ покупки в магазинах «Пятёрочка»",
+                                          "advantageThirdHeading": "1 балл",
+                                          "advantageThirdText": "за каждые 10 ₽ покупки вне магазинов «Пятёрочка»",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Fpyaterochka-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Fpyaterochka\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая карта Пятёрочка",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Fpyaterochka\u002F",
+                                          "headingText": "Баллы «Выручай-карта» за любые покупки",
+                                          "id": "pyaterochka",
+                                          "mainImgAlt": "Дебетовая карта «Пятёрочка»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FPeterochka.png"
+                                        },
+                                        "uid": "cb5abf535a",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "2c7f13d422",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "2000 баллов",
+                                          "advantageFirstText": "«Перекрёсток» в подарок",
+                                          "advantageSecondHeading": "3 балла",
+                                          "advantageSecondText": "за каждые 10 ₽ покупки в «Перекрёстке»",
+                                          "advantageThirdHeading": "1 балл",
+                                          "advantageThirdText": "за каждые 10 ₽ других покупок",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Fperekrestok-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Fperekrestok-debit\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая карта Перекрёсток",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Fperekrestok-debit\u002F",
+                                          "headingText": "Баллы «Клуб Перекрёсток» за любые покупки",
+                                          "id": "perekrestok",
+                                          "mainImgAlt": "Дебетовая карта «Перекрёсток»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Feveryday\u002Fdebit-cards\u002Fperekrestok-debit\u002Fperek_catalog_desktop_300x189.png"
+                                        },
+                                        "uid": "ed5de91028",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "8628aa881c",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FMIR.png",
+                                          "mainImgHeight": 183,
+                                          "mainImgAlt": "Дебетовая карта «МИР»",
+                                          "id": "mir",
+                                          "headingText": "Карта национальной платежной системы",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Falfa-mir\u002F",
+                                          "heading": "Дебетовая карта МИР",
+                                          "giftImgHeight": 24,
+                                          "detailText": "Подробнее",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Falfa-mir\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Fmir-short\u002F",
+                                          "advantageThirdText": "переводы по номеру телефона до 20 000 ₽",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageSecondText": "от партнеров «Мир»",
+                                          "advantageSecondHeading": "Скидки",
+                                          "advantageFirstText": "обслуживание карты",
+                                          "advantageFirstHeading": "Бесплатно"
+                                        },
+                                        "uid": "f4a15410d3",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "0592ad5fec",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "5%",
+                                          "advantageFirstText": "кэшбэк от покупок во всех кафе и ресторанах",
+                                          "advantageSecondHeading": "Бесплатно",
+                                          "advantageSecondText": "обслуживание карты",
+                                          "advantageThirdHeading": "Удобно",
+                                          "advantageThirdText": "мобильный банк у вас и ваших детей",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Fchildcard\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Fchildcard\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая Детская карта",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Fchildcard\u002F",
+                                          "headingText": "Карта, привязанная к счёту родителей",
+                                          "id": "childcard",
+                                          "mainImgAlt": "Дебетовая карта «Детская карта»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Feveryday\u002Fdebit-cards\u002Fkids_card_new_border-2020_11_23.png"
+                                        },
+                                        "uid": "21e59c37e4",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "40878cbc77",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "Бесплатно",
+                                          "advantageFirstText": "выпуск и обслуживание",
+                                          "advantageSecondHeading": "25%",
+                                          "advantageSecondText": "кэшбэк за оплату связи и услуг Билайн",
+                                          "advantageThirdHeading": "До 7% годовых",
+                                          "advantageThirdText": "на остаток по карте",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Fbeeline\u002F#form",
+                                          "buttonText": "Заказать карту",
+                                          "giftImgHeight": 24,
+                                          "heading": "Кэшбэк 1-5-25",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Fbeeline\u002F",
+                                          "headingText": "Дебетовая карта Альфа-Банка и Билайн",
+                                          "id": "1-5-25",
+                                          "mainImgAlt": "Кэшбэк 1-5-25",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Feveryday\u002Fdebit-cards\u002FBeeline-card-600x379-2020_11_11.png",
+                                          "detailText": "Подробнее",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Fbeeline\u002F"
+                                        },
+                                        "uid": "78443fdebd",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Tab",
+                            "properties": {
+                              "title": "Premium",
+                              "id": "premium"
+                            },
+                            "uid": "0b126f8da5",
+                            "children": [
+                              {
+                                "name": "BlockV2",
+                                "properties": {
+                                  "id": "premium-cards",
+                                  "notPadded": true
+                                },
+                                "uid": "d9d56f755f",
+                                "children": [
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "4xl"
+                                    },
+                                    "uid": "c27702ba33",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCard",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 3%",
+                                          "advantageFirstText": "кэшбэк на покупки",
+                                          "advantageSecondHeading": "7% годовых",
+                                          "advantageSecondText": "на остаток по карте",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "снятие наличных",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Falfacard-premium-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Falfacard-premium\u002F",
+                                          "detailText": "Подробнее",
+                                          "heading": "Дебетовая Альфа-Карта Premium",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Falfacard-premium\u002F",
+                                          "headingText": "Особые привилегии премиального обслуживания",
+                                          "id": "alfacard-premium",
+                                          "mainImgAlt": "Дебетовая карта «Альфа-Карта Premium»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Feveryday\u002Fdebit-cards\u002Falfa-card-premium_18_12_2020.png"
+                                        },
+                                        "uid": "856f1f9edb",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "31ea0de115",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCard",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 11%",
+                                          "advantageFirstText": "милями за покупки на travel.alfabank.ru",
+                                          "advantageSecondHeading": "До 5%",
+                                          "advantageSecondText": "милями за покупки",
+                                          "advantageThirdHeading": "Привилегии",
+                                          "advantageThirdText": "страховка для всей семьи, трансферы, Priority Pass",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-card-premium-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-premium\u002F",
+                                          "detailText": "Подробнее",
+                                          "heading": "Дебетовая карта Alfa Travel Premium",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-premium\u002F",
+                                          "headingText": "Особый пакет привилегий, необходимый для любого путешествия",
+                                          "id": "alfa-travel-premium",
+                                          "mainImgAlt": "Дебетовая карта «Alfa Travel Premium»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Ftravel_print_premium.png14.12.png"
+                                        },
+                                        "uid": "3adff27ad7",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "f703e83033",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 2",
+                                          "advantageFirstText": "миль за каждые 60 ₽ покупки",
+                                          "advantageSecondHeading": "Привилегии",
+                                          "advantageSecondText": "страховка для всей семьи, трансферы, Priority Pass",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "при выполнении условий",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflotcard-premium-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot-premium\u002F",
+                                          "detailText": "Подробнее",
+                                          "heading": "Дебетовая карта Аэрофлот Black Edition",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot-premium\u002F",
+                                          "headingText": "Премиальное обслуживание и выгодные условия для клиентов Аэрофлота",
+                                          "id": "aeroflot-premium",
+                                          "mainImgAlt": "Дебетовая карта «Аэрофлот Black Edition»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FAeroflot-black.png"
+                                        },
+                                        "uid": "23537bf4a8",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Tab",
+                            "properties": {
+                              "title": "Для путешествий",
+                              "id": "travel"
+                            },
+                            "uid": "18a5f007a9",
+                            "children": [
+                              {
+                                "name": "BlockV2",
+                                "properties": {
+                                  "id": "travel-cards",
+                                  "notPadded": true
+                                },
+                                "uid": "d7b2bcdaba",
+                                "children": [
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "4xl"
+                                    },
+                                    "uid": "11c3a8d7f2",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCard",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 9%",
+                                          "advantageFirstText": "милями за покупки на travel.alfabank.ru",
+                                          "advantageSecondHeading": "До 3%",
+                                          "advantageSecondText": "милями за покупки",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "выпуск и обслуживание",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-card-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая карта Alfa Travel",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Ftravel\u002F",
+                                          "headingText": "Самая выгодная банковская карта для путешествий",
+                                          "id": "alfa-travel",
+                                          "mainImgAlt": "Дебетовая карта «Alfa Travel»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Ftravel_print_red14.12.png"
+                                        },
+                                        "uid": "1e00127cb7",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "63f2ea66ef",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCard",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 11%",
+                                          "advantageFirstText": "милями за покупки на travel.alfabank.ru",
+                                          "advantageSecondHeading": "До 5%",
+                                          "advantageSecondText": "милями за покупки",
+                                          "advantageThirdHeading": "Привилегии",
+                                          "advantageThirdText": "страховка для всей семьи, трансферы, Priority Pass",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-card-premium-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-premium\u002F",
+                                          "detailText": "Подробнее",
+                                          "heading": "Дебетовая карта Alfa Travel Premium",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Ftravel-premium\u002F",
+                                          "headingText": "Особый пакет привилегий, необходимый для любого путешествия",
+                                          "id": "alfa-travel-premium",
+                                          "mainImgAlt": "Дебетовая карта «Alfa Travel Premium»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Ftravel_print_premium.png14.12.png"
+                                        },
+                                        "uid": "37bd7ca80f",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "e42e472ad9",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая карта Аэрофлот",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot\u002F",
+                                          "headingText": "Выгодные условия для клиентов Аэрофлота",
+                                          "id": "aeroflot",
+                                          "mainImgAlt": "Дебетовая карта «Аэрофлот»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FAeroflot-platinum.png",
+                                          "advantageFirstHeading": "До 1,5",
+                                          "advantageFirstText": "миль за каждые 60 ₽ покупки",
+                                          "advantageSecondHeading": "Бизнес-класс",
+                                          "advantageSecondText": "повышение класса за мили",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "выпуск и обслуживание",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflotcard-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot\u002F"
+                                        },
+                                        "uid": "d52285a4f0",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "ee0018782e",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 2",
+                                          "advantageFirstText": "миль за каждые 60 ₽ покупки",
+                                          "advantageSecondHeading": "Привилегии",
+                                          "advantageSecondText": "страховка для всей семьи, трансферы, Priority Pass",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "при выполнении условий",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflotcard-premium-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot-premium\u002F",
+                                          "detailText": "Подробнее",
+                                          "heading": "Дебетовая карта Аэрофлот Black Edition",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Faeroflot-premium\u002F",
+                                          "headingText": "Премиальное обслуживание и выгодные условия для клиентов Аэрофлота",
+                                          "id": "aeroflot-premium",
+                                          "mainImgAlt": "Дебетовая карта «Аэрофлот Black Edition»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FAeroflot-black.png"
+                                        },
+                                        "uid": "184191bcbd",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "a05feb09e4",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Tab",
+                            "properties": {
+                              "title": "Для покупок",
+                              "id": "shopping"
+                            },
+                            "uid": "dce7abeaea",
+                            "children": [
+                              {
+                                "name": "BlockV2",
+                                "properties": {
+                                  "id": "shopping-cards",
+                                  "notPadded": true
+                                },
+                                "uid": "f6a7a8b70a",
+                                "children": [
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "4xl"
+                                    },
+                                    "uid": "80c3dbd6fd",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCard",
+                                        "properties": {
+                                          "advantageFirstHeading": "До 33%",
+                                          "advantageFirstText": "кэшбэк на покупки",
+                                          "advantageSecondHeading": "7% годовых",
+                                          "advantageSecondText": "на остаток по карте",
+                                          "advantageThirdHeading": "Бесплатно",
+                                          "advantageThirdText": "выпуск и обслуживание",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Falfacard-short2\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Falfacard\u002F",
+                                          "detailText": "Подробнее",
+                                          "giftImgHeight": 24,
+                                          "heading": "Дебетовая Альфа-Карта",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Falfacard\u002F",
+                                          "headingText": "Бесплатная всегда",
+                                          "id": "alfacard-benefit",
+                                          "mainImgAlt": "Дебетовая карта «Альфа-Карта»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Feveryday\u002Fdebit-cards\u002Falfacard-benefits_03-12-2020.png"
+                                        },
+                                        "uid": "faa25fc1ee",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "17823def62",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCard",
+                                        "properties": {
+                                          "advantageFirstHeading": "0 ₽",
+                                          "advantageFirstText": "выпуск и обслуживание",
+                                          "advantageSecondHeading": "До 10%",
+                                          "advantageSecondText": "кэшбэк",
+                                          "advantageThirdHeading": "7% годовых",
+                                          "advantageThirdText": "на остаток по карте",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Fyandexcard-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Fyandexcard\u002F",
+                                          "detailText": "Подробнее",
+                                          "heading": "Дебетовая карта Яндекс.Плюс",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Fyandexcard\u002F",
+                                          "headingText": "Карта с кэшбэком и преимуществами Яндекс.Плюс",
+                                          "id": "yandex",
+                                          "mainImgAlt": "Дебетовая карта «Яндекс.Плюс»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FDebYaCard.png"
+                                        },
+                                        "uid": "c5e09a0920",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "28975c7090",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "2500 баллов",
+                                          "advantageFirstText": "в подарок на день рождения",
+                                          "advantageSecondHeading": "До 2 баллов",
+                                          "advantageSecondText": "за каждые 10 ₽ покупки в магазинах «Пятёрочка»",
+                                          "advantageThirdHeading": "1 балл",
+                                          "advantageThirdText": "за каждые 10 ₽ покупки вне магазинов «Пятёрочка»",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Fpyaterochka-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Fpyaterochka\u002F",
+                                          "detailText": "Подробнее",
+                                          "heading": "Дебетовая карта Пятёрочка",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Fpyaterochka\u002F",
+                                          "headingText": "Баллы «Выручай-карта» за любые покупки",
+                                          "id": "pyaterochka",
+                                          "mainImgAlt": "Дебетовая карта «Пятёрочка»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002FPeterochka.png"
+                                        },
+                                        "uid": "367e9593ee",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "SpacerVertical",
+                                    "properties": {
+                                      "size": "2xl"
+                                    },
+                                    "uid": "d20235668b",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Container",
+                                    "children": [
+                                      {
+                                        "name": "CatalogCardLazy",
+                                        "properties": {
+                                          "advantageFirstHeading": "2000 баллов",
+                                          "advantageFirstText": "«Перекрёсток» в подарок",
+                                          "advantageSecondHeading": "3 балла",
+                                          "advantageSecondText": "за каждые 10 ₽ покупки в «Перекрёстке»",
+                                          "advantageThirdHeading": "1 балл",
+                                          "advantageThirdText": "за каждые 10 ₽ других покупок",
+                                          "buttonHref": "\u002Feveryday\u002Fdebit-cards\u002Fperekrestok-short\u002F",
+                                          "buttonText": "Заказать карту",
+                                          "detailHref": "\u002Feveryday\u002Fdebit-cards\u002Fperekrestok-debit\u002F",
+                                          "detailText": "Подробнее",
+                                          "heading": "Дебетовая карта Перекрёсток",
+                                          "headingLink": "\u002Feveryday\u002Fdebit-cards\u002Fperekrestok-debit\u002F",
+                                          "headingText": "Баллы «Клуб Перекрёсток» за любые покупки",
+                                          "id": "perekrestok",
+                                          "mainImgAlt": "Дебетовая карта «Перекрёсток»",
+                                          "mainImgHeight": 183,
+                                          "mainImgSrc": "\u002F\u002Falfabank.st\u002Fmedia\u002Feveryday\u002Fdebit-cards\u002Fperekrestok-debit\u002Fperek_catalog_desktop_300x189.png"
+                                        },
+                                        "uid": "7ae57c88e8",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "BlockV2",
+            "properties": {
+              "notPadded": true,
+              "id": "archive-link"
+            },
+            "uid": "a404e971ab",
+            "children": [
+              {
+                "name": "SpacerVertical",
+                "properties": {
+                  "size": "2xl"
+                },
+                "uid": "16edf4ec59",
+                "children": []
+              },
+              {
+                "name": "Layout",
+                "uid": "cacfef6e28",
+                "children": [
+                  {
+                    "name": "Link",
+                    "properties": {
+                      "href": "\u002Feveryday\u002Fdebit-cards-archive\u002F",
+                      "border": "solid"
+                    },
+                    "uid": "67b3bb988b",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "Архивные карты"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "SpacerVertical",
+                "properties": {
+                  "size": "4xl"
+                },
+                "uid": "1cf9413d12",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "BlockV2",
+            "properties": {
+              "theme": "grey",
+              "notPadded": "notPadded",
+              "id": "seo-text"
+            },
+            "uid": "a3ae73b7df",
+            "children": [
+              {
+                "name": "SpacerVertical",
+                "uid": "382405b8d0",
+                "children": []
+              },
+              {
+                "name": "Layout",
+                "uid": "b881908bc8",
+                "children": [
+                  {
+                    "name": "Heading",
+                    "properties": {
+                      "size": "4",
+                      "priority": "2"
+                    },
+                    "uid": "5537a4e5ae",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "5 причин оформить дебетовую карту в Альфа-Банке"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "List",
+                    "uid": "a61ca81dad",
+                    "children": [
+                      {
+                        "name": "Text",
+                        "uid": "96b30db032",
+                        "children": [
+                          {
+                            "name": "TextHolder",
+                            "properties": {
+                              "text": "Бесплатно! Выпуск, обслуживание карты и снятие наличных в банкоматах Альфа-Банка и банков-партнёров. Дебетовая карта Альфа-Банка даёт возможность бесплатного доступа к мобильному или интернет-банку, а это — оплата мобильной связи без комиссий, а также интернета, штрафов ГИБДД, коммунальных и других услуг."
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Text",
+                        "uid": "473427479d",
+                        "children": [
+                          {
+                            "name": "TextHolder",
+                            "properties": {
+                              "text": "Безопасно! Если пластиковая карта потеряется, её можно моментально заблокировать и заказать выпуск новой."
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Text",
+                        "uid": "e3d79dd0bb",
+                        "children": [
+                          {
+                            "name": "TextHolder",
+                            "properties": {
+                              "text": "Выгодно! Двойной доход: кэшбэк или мили за покупки и до 7% на остаток."
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Text",
+                        "uid": "84f8091104",
+                        "children": [
+                          {
+                            "name": "TextHolder",
+                            "properties": {
+                              "text": "Разумно! Банковская карта помогает контролировать бюджет: в приложении можно отслеживать все покупки и прогнозировать траты."
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Text",
+                        "uid": "1b1d760bd7",
+                        "children": [
+                          {
+                            "name": "TextHolder",
+                            "properties": {
+                              "text": "Удобно! Дебетовая карта — практичное и надёжное платёжное средство для расчётов за рубежом: при необходимости всегда можно взять и перевести рубли в евро, доллары или другую валюту."
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Hr",
+                    "properties": {
+                      "marginTop": 32,
+                      "marginBottom": 24
+                    },
+                    "uid": "6f5ae41f8e",
+                    "children": []
+                  },
+                  {
+                    "name": "Heading",
+                    "properties": {
+                      "size": "4",
+                      "priority": "2"
+                    },
+                    "uid": "b283b8bc76",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "Как получать преимущества при покупках с дебетовой картой Альфа-Банка"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Text",
+                    "uid": "1bfe671112",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "При подборе банковской карты многие ищут самые «дешёвые», с низкой стоимостью обслуживания. Однако, чтобы выбрать лучший вариант, важно оценить условия и преимущества каждого типа карты."
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Text",
+                    "uid": "13f48fdc21",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "Например, оплачивая покупки дебетовками Альфа-Банка, можно получать мили, баллы или бонусы, а также обменивать их на бесплатные ж\u002Fд билеты, авиабилеты или расплачиваться в супермаркете «Перекрёсток»."
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Text",
+                    "uid": "4379d55971",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "Неслучайно исследовательская компания Frank Research Group признала дебетовую карту «Перекрёсток Mastercard» Альфа-Банка самой выгодной в категории «Максимальная выгода для всех в массовом сегменте», Alfa Travel — «Самая выгодная карта для путешествий»."
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Text",
+                    "uid": "1aaa021db5",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "Настало время сделать выбор: какой будет ваша персональная выгода."
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Hr",
+                    "properties": {
+                      "marginTop": 32,
+                      "marginBottom": 24
+                    },
+                    "uid": "24f3edb5fb",
+                    "children": []
+                  },
+                  {
+                    "name": "Heading",
+                    "properties": {
+                      "size": "4",
+                      "priority": "2"
+                    },
+                    "uid": "38d92eec28",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "Оформить выгодную дебетовую карту онлайн — просто!"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Text",
+                    "uid": "484a956711",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "Всего 3 шага:"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "List",
+                    "uid": "9958812816",
+                    "children": [
+                      {
+                        "name": "Text",
+                        "uid": "6a643fb528",
+                        "children": [
+                          {
+                            "name": "TextHolder",
+                            "properties": {
+                              "text": "заполнить онлайн-заявку;"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Text",
+                        "uid": "0de556067c",
+                        "children": [
+                          {
+                            "name": "TextHolder",
+                            "properties": {
+                              "text": "дождаться звонка \u002F смс о её выпуске;"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Text",
+                        "uid": "152bc0df3c",
+                        "children": [
+                          {
+                            "name": "TextHolder",
+                            "properties": {
+                              "text": "получить карту удобным способом."
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Text",
+                    "uid": "7e00e36fab",
+                    "children": [
+                      {
+                        "name": "TextHolder",
+                        "properties": {
+                          "text": "Изготовление дебетовой карты занимает от 1 до 4 дней."
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "SpacerVertical",
+                "properties": {
+                  "size": "l"
+                },
+                "uid": "31e03b2013",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Footer",
+            "properties": {
+              "dataTestId": "Footer-Desktop-Main",
+              "theme": "black",
+              "socialNetworkLinks": [
+                {
+                  "id": 1,
+                  "img": {
+                    "alt": "facebook",
+                    "src": "\u002F\u002Falfabank.st\u002Ffiles\u002Froot\u002Ficons\u002Ffooter\u002Ffacebook-2020-03-05.svg",
+                    "width": 20,
+                    "height": 20
+                  },
+                  "url": "\u002F\u002Fwww.facebook.com\u002Falfabank",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "facebook"
+                  }
+                },
+                {
+                  "id": 2,
+                  "img": {
+                    "alt": "vk",
+                    "src": "\u002F\u002Falfabank.st\u002Ffiles\u002Froot\u002Ficons\u002Ffooter\u002Fvk-2020-03-05.svg",
+                    "width": 34,
+                    "height": 20
+                  },
+                  "url": "\u002F\u002Fvk.com\u002Falfabank",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "vk"
+                  }
+                },
+                {
+                  "id": 3,
+                  "img": {
+                    "alt": "twitter",
+                    "src": "\u002F\u002Falfabank.st\u002Ffiles\u002Froot\u002Ficons\u002Ffooter\u002Ftwitter-2020-03-05.svg",
+                    "width": 25,
+                    "height": 20
+                  },
+                  "url": "\u002F\u002Ftwitter.com\u002Falfabank",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "twitter"
+                  }
+                },
+                {
+                  "id": 4,
+                  "img": {
+                    "alt": "instagram",
+                    "src": "\u002F\u002Falfabank.st\u002Ffiles\u002Froot\u002Ficons\u002Ffooter\u002Finstagram-2020-03-05.svg",
+                    "width": 20,
+                    "height": 20
+                  },
+                  "url": "\u002F\u002Fwww.instagram.com\u002Falfabank\u002F",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "instagram"
+                  }
+                },
+                {
+                  "id": 5,
+                  "img": {
+                    "alt": "youtube",
+                    "src": "\u002F\u002Falfabank.st\u002Ffiles\u002Froot\u002Ficons\u002Ffooter\u002Fyoutube-2020-03-05.svg",
+                    "width": 28,
+                    "height": 20
+                  },
+                  "url": "\u002F\u002Fwww.youtube.com\u002Fuser\u002Falfabankru",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "youtube"
+                  }
+                }
+              ],
+              "mobileApp": {
+                "analytics": {
+                  "block": "Футер",
+                  "event": "gtm_interaction_event",
+                  "action": "Click",
+                  "product": "General",
+                  "pagetype": "Main Page",
+                  "label_detail": "Мобильный банк"
+                },
+                "mobileAppImg": {
+                  "alt": "logo",
+                  "src": "\u002F\u002Falfabank.st\u002Fmedia\u002Ffooter-alfa-logo_1025x1025_common_19-01-2021.svg"
+                },
+                "mobileAppLink": "\u002Fapp",
+                "mobileAppText": "Приложение для айфона и андроида",
+                "mobileAppLinkText": "Мобильный банк"
+              },
+              "mainLinks": [
+                {
+                  "id": 1,
+                  "url": "\u002Fcurrency\u002F",
+                  "label": "Курсы валют",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Курсы валют"
+                  }
+                },
+                {
+                  "id": 2,
+                  "url": "\u002Foffice\u002F",
+                  "label": "Офисы",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Офисы"
+                  }
+                },
+                {
+                  "id": 3,
+                  "url": "\u002Fatm\u002F",
+                  "label": "Банкоматы",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Банкоматы"
+                  }
+                },
+                {
+                  "id": 4,
+                  "url": "\u002F\u002Fonline.alfabank.ru\u002Fcards-activation\u002F",
+                  "label": "Активация карты",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Активация карты"
+                  }
+                }
+              ],
+              "contacts": [
+                {
+                  "id": 1,
+                  "label": "частным лицам",
+                  "phone": "8 800 2000-000"
+                },
+                {
+                  "id": 2,
+                  "label": "бизнесу",
+                  "phone": "8 800 100-77-33"
+                }
+              ],
+              "chaptersLinks": [
+                {
+                  "id": 1,
+                  "url": "\u002Fabout\u002F",
+                  "label": "О банке",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "О банке"
+                  }
+                },
+                {
+                  "id": 2,
+                  "url": "\u002F\u002Fjob.alfabank.ru\u002F",
+                  "label": "Вакансии",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Вакансии"
+                  }
+                },
+                {
+                  "id": 3,
+                  "url": "\u002Fessential\u002F",
+                  "label": "Реквизиты",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Реквизиты"
+                  }
+                },
+                {
+                  "id": 4,
+                  "url": "https:\u002F\u002Fnews.alfabank.ru\u002Freleases\u002F",
+                  "label": "Пресс-служба",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Пресс-служба"
+                  }
+                },
+                {
+                  "id": 5,
+                  "url": "\u002Fretail\u002Ftariffs\u002F",
+                  "label": "Тарифы и документы",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Тарифы и документы"
+                  }
+                },
+                {
+                  "id": 6,
+                  "url": "\u002Feveryday\u002Fnon-residents\u002F",
+                  "label": "Иностранным гражданам",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Иностранным гражданам"
+                  }
+                },
+                {
+                  "id": 7,
+                  "url": "\u002Ftenders\u002F",
+                  "label": "Тендерная комиссия",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Тендерная комиссия"
+                  }
+                },
+                {
+                  "id": 8,
+                  "url": "\u002Feveryday\u002Fonline\u002Falfaclick\u002Fsecurity\u002F",
+                  "label": "Безопасность",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Безопасность"
+                  }
+                },
+                {
+                  "id": 9,
+                  "url": "\u002Fsales\u002F",
+                  "label": "Скидки по картам",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Скидки по картам"
+                  }
+                },
+                {
+                  "id": 11,
+                  "url": "\u002Ffeedback\u002Fsupport\u002F",
+                  "label": "Обратная связь",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Обратная связь"
+                  }
+                },
+                {
+                  "id": 11,
+                  "url": "\u002Ffeedback\u002Fcpa\u002F",
+                  "label": "Пожаловаться на звонки",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Пожаловаться на звонки"
+                  }
+                },
+                {
+                  "id": 12,
+                  "url": "\u002Fsitemap\u002F",
+                  "label": "Карта сайта",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Карта сайта"
+                  }
+                },
+                {
+                  "id": 13,
+                  "url": "\u002Flp\u002Fretail\u002Fdolpri\u002F",
+                  "label": "Должникам и взыскателям",
+                  "analytics": {
+                    "block": "Футер",
+                    "event": "gtm_interaction_event",
+                    "action": "Click",
+                    "product": "General",
+                    "pagetype": "Main Page",
+                    "label_detail": "Должникам и взыскателям"
+                  }
+                }
+              ]
+            },
+            "uid": "cc27165091",
+            "children": [
+              {
+                "name": "TextHolder",
+                "properties": {
+                  "text": "© 2001-2021. АО «Альфа-Банк», официальный сайт. Генеральная лицензия Банка России № 1326 от 16 января 2015 г. "
+                }
+              },
+              {
+                "name": "Link",
+                "properties": {
+                  "theme": "black",
+                  "target": "_blank",
+                  "kind": "caption",
+                  "href": "\u002Fmake-money\u002Fstrahovanie_vkladov\u002F"
+                },
+                "uid": "4fcd63e446",
+                "children": [
+                  {
+                    "name": "TextHolder",
+                    "properties": {
+                      "text": "АО АЛЬФА-БАНК является участником системы обязательного страхования вкладов."
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "TextHolder",
+                "properties": {
+                  "text": " "
+                }
+              },
+              {
+                "name": "Link",
+                "properties": {
+                  "theme": "black",
+                  "target": "_blank",
+                  "kind": "caption",
+                  "href": "\u002Fabout\u002Fannual_report\u002Friskinfo\u002F"
+                },
+                "uid": "14b549ec6d",
+                "children": [
+                  {
+                    "name": "TextHolder",
+                    "properties": {
+                      "text": "Информация о процентных ставках по договорам банковского вклада с физическими лицами."
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "TextHolder",
+                "properties": {
+                  "text": " "
+                }
+              },
+              {
+                "name": "Link",
+                "properties": {
+                  "theme": "black",
+                  "target": "_blank",
+                  "kind": "caption",
+                  "href": "http:\u002F\u002Fwww.e-disclosure.ru\u002Fportal\u002Fcompany.aspx?id=1389"
+                },
+                "uid": "1b8b6d6819",
+                "children": [
+                  {
+                    "name": "TextHolder",
+                    "properties": {
+                      "text": "Центр раскрытия корпоративной информации."
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "TextHolder",
+                "properties": {
+                  "text": " "
+                }
+              },
+              {
+                "name": "Link",
+                "properties": {
+                  "theme": "black",
+                  "target": "_blank",
+                  "kind": "caption",
+                  "href": "\u002Fabout\u002Flegal\u002F"
+                },
+                "uid": "4360c100a8",
+                "children": [
+                  {
+                    "name": "TextHolder",
+                    "properties": {
+                      "text": "Информация профессионального участника рынка ценных бумаг."
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "TextHolder",
+                "properties": {
+                  "text": " "
+                }
+              },
+              {
+                "name": "Link",
+                "properties": {
+                  "theme": "black",
+                  "target": "_blank",
+                  "kind": "caption",
+                  "href": "\u002Fabout\u002Fshareholders\u002F"
+                },
+                "uid": "4e86bdbeaf",
+                "children": [
+                  {
+                    "name": "TextHolder",
+                    "properties": {
+                      "text": "Информация о лицах, под контролем либо значительным влиянием которых находится Банк."
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "TextHolder",
+                "properties": {
+                  "text": " "
+                }
+              },
+              {
+                "name": "TextHolder",
+                "properties": {
+                  "text": " Ул. Каланчевская, 27, Москва, 107078."
+                }
+              },
+              {
+                "name": "Br",
+                "children": []
+              },
+              {
+                "name": "TextHolder",
+                "properties": {
+                  "text": " "
+                }
+              },
+              {
+                "name": "Br",
+                "children": []
+              },
+              {
+                "name": "Link",
+                "properties": {
+                  "theme": "black",
+                  "target": "_blank",
+                  "kind": "caption",
+                  "href": "\u002Fabout\u002Fpersonal_politics\u002F"
+                },
+                "uid": "4498e8ad14",
+                "children": [
+                  {
+                    "name": "TextHolder",
+                    "properties": {
+                      "text": "АО «Альфа-Банк» использует файлы «cookie» с целью персонализации сервисов и повышения удобства пользования веб-сайтом."
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "TextHolder",
+                "properties": {
+                  "text": " Если Вы не хотите, чтобы Ваши пользовательские данные обрабатывались, пожалуйста, ограничьте их использование в своём браузере"
+                }
+              }
+            ]
+          },
+          {
+            "name": "WidgetCitiesPopup",
+            "properties": {
+              "cities": [
+                "retail"
+              ]
+            },
+            "uid": "a0b79acccc",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "FeedbackForm",
+        "properties": {
+          "topText": "Наша команда старается сделать сайт максимально удобным для вас ❤️",
+          "timeToShow": 3000,
+          "targetSelectorsForHide": [
+            "#form"
+          ],
+          "rating": {
+            "stars": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "questionText": "Как вы оцениваете эту страницу?"
+          },
+          "question": {
+            "placeholder": "Напишите, пожалуйста, с какими проблемами вы столкнулись. Мы постараемся их исправить.",
+            "questionText": "Что мы можем улучшить?"
+          },
+          "icons": [
+            "\u002F\u002Falfabank.st\u002Fdebit-cards\u002Ffeedback-icon-1_30-12-2019.svg",
+            "\u002F\u002Falfabank.st\u002Fdebit-cards\u002Ffeedback-icon-2_30-12-2019.svg",
+            "\u002F\u002Falfabank.st\u002Fdebit-cards\u002Ffeedback-icon-3_30-12-2019.svg"
+          ],
+          "codeTeam": "DebitCard"
+        },
+        "uid": "6a2cc1659d",
+        "children": []
+      },
+      {
+        "name": "SeoJsonLd",
+        "properties": {
+          "jsonContent": {
+            "@type": "BreadcrumbList",
+            "@context": "https:\u002F\u002Fschema.org\u002F",
+            "itemListElement": [
+              {
+                "item": "https:\u002F\u002Falfabank.ru\u002F",
+                "name": "Частным лицам",
+                "@type": "ListItem",
+                "position": 1
+              },
+              {
+                "item": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002F",
+                "name": "Дебетовые карты 🅰️",
+                "@type": "ListItem",
+                "position": 2
+              }
+            ]
+          }
+        },
+        "uid": "6d00496fe9",
+        "children": []
+      },
+      {
+        "name": "SeoJsonLd",
+        "properties": {
+          "jsonContent": {
+            "url": "https:\u002F\u002Falfabank.ru\u002F",
+            "logo": "https:\u002F\u002Falfabank.ru\u002Ff\u002Fmedia\u002Flogo-ogp.png",
+            "name": "АО АЛЬФА-БАНК",
+            "@type": "Organization",
+            "sameAs": [
+              "https:\u002F\u002Fvk.com\u002Falfabank",
+              "https:\u002F\u002Fwww.instagram.com\u002Falfabankru\u002F",
+              "https:\u002F\u002Fwww.facebook.com\u002Falfabank",
+              "https:\u002F\u002Ftwitter.com\u002Falfabank",
+              "http:\u002F\u002Fwww.youtube.com\u002Fuser\u002Falfabankru"
+            ],
+            "@context": "http:\u002F\u002Fschema.org",
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "telephone": "+7-495-788-88-78",
+                "contactType": "customer service"
+              },
+              {
+                "@type": "ContactPoint",
+                "telephone": "+7-495-755-58-58",
+                "contactType": "customer service"
+              }
+            ]
+          }
+        },
+        "uid": "0f1d8403d7",
+        "children": []
+      },
+      {
+        "name": "SeoJsonLd",
+        "properties": {
+          "jsonContent": {
+            "name": "Дебетовые карты",
+            "@type": "Product",
+            "image": {
+              "url": "https:\u002F\u002Falfabank.ru\u002Ff\u002Fmedia\u002Flogo-ogp.png",
+              "@type": "ImageObject"
+            },
+            "offers": {
+              "@type": "AggregateOffer",
+              "offers": [
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Falfacard\u002F",
+                  "name": "Альфа-Карта с преимуществами",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Falfacard-premium\u002F",
+                  "name": "Альфа-Карта Premium",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Ftravel\u002F",
+                  "name": "Alfa Travel",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Ftravel-premium\u002F",
+                  "name": "Alfa Travel Premium",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Faeroflot\u002F",
+                  "name": "Аэрофлот",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Faeroflot\u002F",
+                  "name": "Аэрофлот Black Edition",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Fyandexcard\u002F",
+                  "name": "Яндекс.Плюс",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Fperekrestok-debit\u002F",
+                  "name": "Перекресток",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Fpyaterochka\u002F",
+                  "name": "Пятерочка",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Fchildcard\u002F",
+                  "name": "Детская карта",
+                  "@type": "Offer"
+                },
+                {
+                  "url": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002Falfa-mir\u002F",
+                  "name": "МИР",
+                  "@type": "Offer"
+                }
+              ],
+              "lowPrice": "0",
+              "offerCount": "11",
+              "priceCurrency": "RUB"
+            },
+            "@context": "http:\u002F\u002Fschema.org",
+            "description": "Дебетовые банковские карты от Альфа-Банк &#128179; Бесплатный выпуск карты и обслуживание &#128176; Кэшбэк или мили за покупки по карте и до 7% на остаток",
+            "AggregateRating": {
+              "@type": "AggregateRating",
+              "bestRating": "10",
+              "ratingValue": "9.8",
+              "reviewCount": "315"
+            }
+          }
+        },
+        "uid": "6ddb5792a0",
+        "children": []
+      }
+    ]
+  },
+  "cityInfo": {
+    "id": 14,
+    "cityTitle": "Казань",
+    "cityPath": "kazan",
+    "regionId": 16
+  },
+  "collectorData": {
+    "url": "\u002Feveryday\u002Fdebit-cards\u002F",
+    "queryParams": {
+      "rp-tab": "all"
+    },
+    "additionalProperties": {
+      "abTest": {},
+      "personal": []
+    },
+    "frontAnalyticsEnabled": true,
+    "originalQuery": "\u002Feveryday\u002Fdebit-cards\u002F?rp-tab=all",
+    "personal": [],
+    "seo": {
+      "meta": [
+        {
+          "name": "description",
+          "content": "Дебетовые банковские карты от Альфа-Банк 💳 Бесплатный выпуск карты и обслуживание 💰 Кэшбэк или мили за покупки по карте и до 6% на остаток"
+        },
+        {
+          "name": "keywords",
+          "content": "дебетовые карты банковские оформить онлайн заказать получить интернет выгодные лучшие"
+        },
+        {
+          "content": "Дебетовые карты",
+          "property": "og:title"
+        },
+        {
+          "content": "Дебетовые банковские карты от Альфа-Банк 💳 Бесплатный выпуск карты и обслуживание 💰 Кэшбэк или мили за покупки по карте и до 6% на остаток",
+          "property": "og:description"
+        },
+        {
+          "content": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002F",
+          "property": "og:url"
+        },
+        {
+          "content": "website",
+          "property": "og:type"
+        },
+        {
+          "content": "https:\u002F\u002Falfabank.ru\u002Ff\u002Fmedia\u002Flogo-ogp.png",
+          "property": "og:image"
+        },
+        {
+          "content": "АО Альфа-Банк",
+          "property": "og:site_name"
+        },
+        {
+          "content": "",
+          "property": "article:tag"
+        },
+        {
+          "content": "summary_large_image",
+          "property": "twitter:card"
+        },
+        {
+          "content": "@alfabank",
+          "property": "twitter:creator"
+        },
+        {
+          "content": "Дебетовые карты",
+          "property": "twitter:title"
+        },
+        {
+          "content": "Дебетовые карты, оформить и заказать банковскую карту через интернет, онлайн заявка выгодной и лучшей дебетовой карты",
+          "property": "twitter:description"
+        },
+        {
+          "content": "https:\u002F\u002Falfabank.ru\u002Ff\u002Fmedia\u002Flogo-ogp.png",
+          "property": "twitter:image"
+        }
+      ],
+      "title": "Дебетовые карты, оформить и заказать банковскую карту онлайн – Альфа-Банк",
+      "cities": [
+        "Москва",
+        "Санкт-Петербург",
+        "Новосибирск",
+        "Екатеринбург",
+        "Нижний Новгород",
+        "Казань",
+        "Челябинск",
+        "Омск",
+        "Самара",
+        "Ростов-на-Дону",
+        "Уфа",
+        "Красноярск",
+        "Пермь",
+        "Воронеж",
+        "Волгоград",
+        "Краснодар",
+        "Саратов",
+        "Тюмень",
+        "Тольятти",
+        "Ижевск",
+        "Барнаул",
+        "Ульяновск",
+        "Иркутск",
+        "Хабаровск",
+        "Ярославль",
+        "Владивосток",
+        "Томск",
+        "Оренбург",
+        "Кемерово",
+        "Новокузнецк",
+        "Рязань",
+        "Набережные Челны",
+        "Пенза",
+        "Липецк",
+        "Киров",
+        "Чебоксары",
+        "Тула",
+        "Калининград",
+        "Курск",
+        "Ставрополь",
+        "Сочи",
+        "Тверь",
+        "Магнитогорск",
+        "Иваново",
+        "Брянск",
+        "Белгород",
+        "Сургут",
+        "Владимир",
+        "Нижний Тагил",
+        "Архангельск"
+      ],
+      "jsonLd": {
+        "@type": "BreadcrumbList",
+        "@context": "https:\u002F\u002Fschema.org\u002F",
+        "itemListElement": [
+          {
+            "item": "https:\u002F\u002Falfabank.ru\u002F",
+            "name": "Частным лицам",
+            "@type": "ListItem",
+            "position": 1
+          },
+          {
+            "item": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002F",
+            "name": "&#128179; Дебетовые карты",
+            "@type": "ListItem",
+            "position": 2
+          }
+        ]
+      },
+      "linkCanonical": "https:\u002F\u002Falfabank.ru\u002Feveryday\u002Fdebit-cards\u002F"
+    }
+  },
+  "teams": [
+    "DebitCard"
+  ],
+  "fetchResults": []
+}
